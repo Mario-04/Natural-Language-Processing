@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"49795572d4b5b601","x":-160,"y":-200,"width":250,"height":60,"type":"text","text":"RULE-BASED system"},
+		{"id":"a1de68994f34642f","x":-160,"y":-320,"width":250,"height":60,"type":"text","text":"Set of rules"},
+		{"id":"6ef69c9079c292cb","x":140,"y":-200,"width":250,"height":60,"type":"text","text":"Generate output based on rules"},
+		{"id":"dd3cb015b11eddae","x":-460,"y":-200,"width":250,"height":60,"type":"text","text":"Input text  (+ other info)"}
+	],
+	"edges":[
+		{"id":"82b55a8eefd920e9","fromNode":"a1de68994f34642f","fromSide":"bottom","toNode":"49795572d4b5b601","toSide":"top"},
+		{"id":"75a3d687a20c65bc","fromNode":"dd3cb015b11eddae","fromSide":"right","toNode":"49795572d4b5b601","toSide":"left"},
+		{"id":"dfdac977b80f4c4f","fromNode":"49795572d4b5b601","fromSide":"right","toNode":"6ef69c9079c292cb","toSide":"left"}
+	]
+}
