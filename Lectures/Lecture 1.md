@@ -4,6 +4,8 @@ tags:
   - Lectures
   - FirstPass
 Created: 2025-02-07
+aliases:
+  - NLP_Lecture_1
 ---
 # What do they plan to teach?
 
