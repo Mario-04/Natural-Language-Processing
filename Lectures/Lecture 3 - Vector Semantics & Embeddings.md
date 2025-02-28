@@ -23,7 +23,7 @@ Extra lectures on Fridays for things like Transformers
 	- Drawback: capturing words regularity instead of meaning
 - Logic for meaning:
 	- **Predicate logic**
-- Captures structure but nnot words. Bank (finance) vs. Bank (riverbank)
+- Captures structure but not words. Bank (finance) vs. Bank (riverbank)
 
 ## Lexical Semantics
 - Semantic study of word meanings 
@@ -31,12 +31,12 @@ Extra lectures on Fridays for things like Transformers
 
 ## Lemmas and senses
 mouse (N) <- lemma
-1. any of numerous small rodents <- sense
-2. a hand-operated device that controls cursor <- sense
+1. any of numerous small rodents <- sense (concept)
+2. a hand-operated device that controls cursor <- sense (concept)
 
 ## Synonyms
 Not all synonyms are the interchangeable
-- my big sister / my large sister
+- my big sister $\not =$ my large sister
 
 relationship of approximate or rough synonymy 
 
@@ -60,7 +60,7 @@ Affective meanings
 
 # Vector semantics
 
-standard way to represent word meaning in multidimensional space to accommodate features of words. meaning can be defined in different ways.
+standard way to represent word meaning in `multidimensional space` to accommodate `features` of words. meaning can be defined in different ways.
 - emergently, we have words with meaning imbedded
 - vectors: representing words -> <mark style="background: #D2B3FFA6;">embeddings</mark>
 - <mark style="background: #CACFD9A6;">hyperparameters</mark> used to tune amount of <mark style="background: #D2B3FFA6;">dimensions</mark>
